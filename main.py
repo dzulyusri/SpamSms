@@ -26,7 +26,7 @@ class Main:
 """)
 		pilih=int(input('/Kang-newbie: '))
 		if pilih == 1:
-			import src.sms.py
+			import cd src.sms.py
 		elif pilih == 2:
 			import src.hooq
 		elif pilih == 3:
